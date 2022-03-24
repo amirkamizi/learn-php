@@ -68,3 +68,5 @@ You can find Amir [here](https://amirkamizi.com)
 | 58            |PHP Array Chunk |https://amirkamizi.com/blog/php-array-chunk|
 | 59            |PHP Array Intersect |https://amirkamizi.com/blog/php-array-intersect|
 | 60            |PHP Array Diff |https://amirkamizi.com/blog/php-array-diff|
+| 61            |PHP Sanitize Data |https://amirkamizi.com/blog/php-sanitize-data|
+|             |             |         |
